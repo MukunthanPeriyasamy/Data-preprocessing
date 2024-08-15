@@ -26,8 +26,5 @@ Splitting the dataset into training and testing subsets is essential for model e
 ## 8. Feature Scaling
 Feature scaling ensures that all features have similar scales. Discuss any normalization or standardization techniques used.
 
-Feel free to customize and expand upon each section based on your specific implementation. Don't forget to include any relevant code snippets, explanations, and examples!
 
----
 
-Feel free to copy and modify this template to create your README file. If you have any additional details or need further assistance, feel free to ask! 😊
